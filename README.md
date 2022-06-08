@@ -4,7 +4,7 @@ This is an application to enable signup and login for different types of users. 
 
 Types of Users: Doctor and Patient
 
-Tasks Accomplished: 
+# Tasks Accomplished: 
 1) Signup for both doctors and patient with the necessary details including profile pic
 2) Create and Confirm Password fields while validating registration form and also verifying both these passwords if they are same or not.
 3) Common Login Page for doctors and patients and based on the role, they are redirected to their respective dashboards
