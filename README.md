@@ -25,7 +25,7 @@ Step 1: Run python manage.py runserver
 
 Step 2: Go to the Browser and enter http://127.0.0.1:8000/
 
-# Screenshots:
+# Screenshots of the application:
 
 Home Page: 
 
