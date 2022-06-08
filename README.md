@@ -27,27 +27,32 @@ Step 2: Go to the Browser and enter http://127.0.0.1:8000/
 
 # Screenshots of the application:
 
-Home Page: 
+1) Home Page: 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83284855/172517373-ca37a776-b66c-4782-9e87-5dcde5e2f118.png">
 
-Registration Page for Doctor: 
+
+2) Registration Page for Doctor: 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83284855/172517477-9817cd26-c6d9-4ffb-bcb3-ec83a1c979e1.png">
 
-Registration Page for Patient: 
+
+3) Registration Page for Patient: 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83284855/172517535-13383e51-bf89-4588-94c9-cdc8e3bbbb9a.png">
 
-Login Page for Doctors and Patients: 
+
+4) Login Page for Doctors and Patients: 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83284855/172517620-9e1d0c35-b8ba-43c0-a9a0-2e3f20a04d4c.png">
 
-Dashboard for Doctor(After login): 
+
+5) Dashboard for Doctor(After login): 
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83284855/172517804-af2af61d-07a2-4723-80f2-386db295b660.png">
 
-Dashboard for Patient(After login):
+
+6) Dashboard for Patient(After login):
 
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/83284855/172518194-2517dad8-9420-4bc8-872d-5691d9d67be3.png">
 
