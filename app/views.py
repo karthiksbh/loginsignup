@@ -3,6 +3,7 @@ from .forms import UserRegister, LoginForm
 from . models import User
 from django.db.models import Q
 from django.contrib.auth import authenticate
+from django.contrib.auth import login as auth_login
 from django.contrib import messages
 
 
@@ -66,10 +67,12 @@ def login(request):
             user = authenticate(username=username, password=password)
             if user is not None and user.is_doctor is True:
                 details = User.objects.filter(username=username)
+                auth_login(request, user)
                 print(details)
                 return render(request, 'doctor.html', {'details': details})
             elif user is not None and user.is_doctor is False:
                 details = User.objects.filter(username=username)
+                auth_login(request, user)
                 print(details)
                 return render(request, 'patient.html', {'details': details})
             else:
